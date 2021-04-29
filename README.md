@@ -7,4 +7,4 @@ It's a slider selector project. Easily search and select the slide or remove the
 
 . Javascript
 
-Live link: 
+Live link :  https://noor-e-jannat111.github.io/Assignment-6-slider-/
