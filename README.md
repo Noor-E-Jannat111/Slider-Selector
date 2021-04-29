@@ -6,3 +6,5 @@ It's a slider selector project. Easily search and select the slide or remove the
 . CSS
 
 . Javascript
+
+Live link: 
